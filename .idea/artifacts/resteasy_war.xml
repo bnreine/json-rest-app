@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="resteasy:war">
+    <output-path>$PROJECT_DIR$/resteasy/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>resteasy</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="resteasy.war">
+      <element id="artifact" artifact-name="resteasy:war exploded" />
+    </root>
+  </artifact>
+</component>

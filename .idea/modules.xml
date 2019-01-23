@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/json-rest-app.iml" filepath="$PROJECT_DIR$/.idea/json-rest-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resteasy/resteasy.iml" filepath="$PROJECT_DIR$/resteasy/resteasy.iml" />
     </modules>
   </component>
 </project>
